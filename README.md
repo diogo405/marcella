@@ -1,6 +1,6 @@
 # Marcella 🕵🏻‍♀️
 
-![marcella](https://github.com/diogo405/marcella/blob/master/marcella-banner.jpeg?raw=true)
+![marcella](https://github.com/diogo405/marcella/blob/master/marcella-banner2.jpeg?raw=true)
 
 How frustating is for a user to re-type a field in a form when they accidentally close the page or reload the browser? Marcella is a js that saves user's form to session storage preventing data loss.
 
