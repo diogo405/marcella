@@ -31,6 +31,23 @@ How frustating is for a user to re-type a field in a form when they accidentally
 ```
 
 
+## Options
+
+You can add a form selector when you instantiate Marcella to filter the fields inside the form only 🤠
+
+```
+    .
+    .
+    .
+    <script src="marcella.js"></script>
+    <script>
+      new Marcella('#signup-form');
+    </script>
+    </body>
+</html>
+```
+
+
 ## Html Sample
 
 Download and run sample.html in your browser 👍🏽
